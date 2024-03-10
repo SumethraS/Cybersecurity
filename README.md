@@ -1,2 +1,2 @@
-# first_adventure
+# Projects
 Cybersecurity project
